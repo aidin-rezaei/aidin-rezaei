@@ -1,16 +1,19 @@
-### Hi there 👋
+### <a href='https://aidinr.ir/'>Aidin Rezaei</a> <br> 
 
-<!--
-**aidin-rezaei/aidin-rezaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```html
+<About-Me>
+  <Website> https://aidinr.ir/ </Website>
+  <Phone> +989216541779 </Phone>
+  <E-mail> aydinrezaeefdr@gmail.com </E-mail>
+ </About-Me>
+```
+<details><summary>About Me</summary>
+  
+> I am aidin Rezaei, a student of computer software, I have been interested in programming for 5 years and started working, and I would like to reach my highest level in programming.<br><br>
+> Website:   <a href='https://aidinr.ir/'>https://aidinr.ir/</a> <br>
+> Phone:     +98-903 8007 960<br>
+> E-mail:    aydinrezaeefdr@gmail.com<br><br>
+>I try to implement the customer idea in the best possible way and I seek to provide complete and distinctive services. (The goal is to grow the business)<br>
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
