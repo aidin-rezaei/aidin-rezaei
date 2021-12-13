@@ -16,18 +16,18 @@
 ### Languages and Tools:
 <p align="center">
   
-  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
+  <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+  <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+  <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
+  <img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
   <br>
-    <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+    <img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+    <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+    <img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+    <img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    <img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
+    <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
   </p>
 
