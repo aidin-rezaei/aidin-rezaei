@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="https://github.com/aidin-rezaei">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aidin-rezaei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aidin-rezaei&layout=compact&langs_count=10&hide=html&theme=algolia"/>
+  <img height="180eaidin-rezaeim" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aidin-rezaei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thevergeon&layout=compact&langs_count=10&hide=html&theme=algolia"/>
 </a>
 </p>
