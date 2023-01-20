@@ -32,10 +32,10 @@
     <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
   </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/aidin-rezaei">
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidin-rezaei&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidin-rezaei&theme=radical)
 </a>
-</p>
+</p> -->
