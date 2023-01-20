@@ -1,6 +1,6 @@
 # <a href='https://aidinr.ir/'>Aidin Rezaei</a> <br> 
 <img align="left" width="30%" src="https://aidinr.ir/old/img/1.png">
-
+<img  width="50%" src="https://aidinr.ir/files/media/aidin_github2.svg">
 > I am aidin Rezaei, a student of computer software, I have been interested in programming for 5 years and started working, and I would like to reach my highest level in programming.<br><br>
 > Website:   <a href='https://aidinr.ir/'>https://aidinr.ir/</a> <br>
 > Phone:     +98-903 8007 960<br>
