@@ -14,7 +14,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
-### Languages and Tools:
+### <img width="50px" src="https://github.githubassets.com/images/mona-loading-dark.gif">Languages and Tools:
 <p align="center">
   
   <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
